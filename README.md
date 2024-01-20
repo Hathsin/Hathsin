@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hathsin
+- 👋 Hi, I’m Benjamin Widner III
 - 👀 I’m interested in Cybersecutity and Computer networking
 - 🌱 I’m currently learning about whatever catches my eye. 
 - 💞️ I’m looking to collaborate on anything that doesn't require a whole lot of prior knowledge, for now.
